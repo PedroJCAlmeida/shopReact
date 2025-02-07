@@ -57,7 +57,9 @@ npm run dev
 
 ℹ️ Sobre o Projeto
 
-O shopReact é um projeto básico de e-commerce para treinar o uso do React com Context API. Ele simula um carrinho de compras onde o usuário pode adicionar e remover produtos.
+O Shop React é uma aplicação de e-commerce desenvolvida em React que permite aos usuários visualizar produtos fictícios e adicionar/remover itens do carrinho. O projeto utiliza a Context API para gerenciar o estado do carrinho de compras, garantindo uma experiência fluida e dinâmica.
+
+Este projeto foi criado como um estudo prático de React, gerenciamento de estado e componentes reutilizáveis, podendo ser expandido para um e-commerce mais completo com backend e autenticação.
 
 📬 Contato
 
