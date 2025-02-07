@@ -65,7 +65,7 @@ Este projeto foi criado como um estudo prático de React, gerenciamento de estad
 
 Caso tenha alguma dúvida ou sugestão, entre em contato:
 
-📧 pedrojoaocarvalho@gmail.com
+📧 pedrojoaocarvalhoalmeida@gmail.com
 
 🔗 LinkedIn http://linkedin.com/in/pedro-j-c-almeida
 
